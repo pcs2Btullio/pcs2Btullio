@@ -13,7 +13,7 @@ Bem vindes ao meu perfíl 😋💙💜💚❤️
 Eu sou pcs.
 
 Sou um estudante da Alura.
-Estou desenvolvendo na línguagem de JavaScript.
+Estou desenvolvendo na linguagem de JavaScript.
 Eu utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos.
 Você pode me contatar em 📫:
 00001088765518sp@al.educacao.sp.gov.br
