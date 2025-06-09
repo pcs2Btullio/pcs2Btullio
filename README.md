@@ -1,4 +1,4 @@
-Welcome to my profile 😋💖💙💜
+Welcome to my profile 😋💙💜💚❤️
 I'm pcs.
 
 I'm an Alura student.
@@ -8,3 +8,12 @@ You can contact me @ 📫:
 00001088765518sp@al.educacao.sp.gov.br
 
 @alurastartestudante
+
+Bem vindes ao meu perfíl 😋💙💜💚❤️
+Eu sou pcs.
+
+Sou um estudante da Alura.
+Estou desenvolvendo na línguagem de JavaScript.
+Eu utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos.
+Você pode me contatar em 📫:
+00001088765518sp@al.educacao.sp.gov.br
